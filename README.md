@@ -3,6 +3,7 @@ a really easy, learn to solder S.T.E.A.M. school Badge
 
 **S.T.E.A.M. school badge**
 
+SHOTR URL = https://git.io/vdyeU
 
 ***FEATURES***
 

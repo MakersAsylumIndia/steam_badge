@@ -1,4 +1,4 @@
-update=Sat Oct 14 17:55:46 2017
+update=Tue Oct 17 01:21:03 2017
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,7 +59,15 @@ LibName29=opto
 LibName30=atmel
 LibName31=contrib
 LibName32=valves
-LibName33=/home/anool/projects-git/lumitron/v2/lumitron
-LibName34=/home/anool/projects-git/RAF/kicad_v2.1/RAF_Libs/RAF
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=pdf/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [general]
 version=1
