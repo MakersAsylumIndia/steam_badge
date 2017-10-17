@@ -36,6 +36,13 @@ rev2 with Acrylic Name Tag
 rev2 "tiled" badges
 ![steam_badge rev2](https://github.com/MakersAsylumIndia/steam_badge/blob/master/badge_kicad/images/badge04.png)
 
+Final Rev
+![steam_badge Final](https://github.com/MakersAsylumIndia/steam_badge/blob/master/badge_kicad/images/badge14.png)
+
+Final Rev
+![steam_badge Final](https://github.com/MakersAsylumIndia/steam_badge/blob/master/badge_kicad/images/badge15.png)
+
+
 License
 -------
 [CERN Open Hardware Licence v1.2 ]
