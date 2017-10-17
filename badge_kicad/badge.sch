@@ -341,8 +341,8 @@ F 3 "" H 10625 6275 60  0001 C CNN
 	1    10625 6275
 	1    0    0    -1  
 $EndComp
-Text Notes 9000 1550 0    60   ~ 12
-NOTES :\n\nFor BASIC badge\ninstall BT1, D1, D2, R1, R2\nJumper SW1 and pins 1-3 of Q1\n\nFor FANCY badge\ninstall BT1, D1, D2, R1, R2, R3, R4, Q1\ninstall switch SW1 or Jumper it
+Text Notes 9000 1800 0    60   ~ 12
+NOTES :\n\nFor BASIC badge\ninstall BT1, D1, D2, R1, R2\nJumper SW1 and pins 1-3 of Q1\n\nFor FANCY badge\ninstall BT1, D1, D2, R1, R2, R3, R4, Q1\ninstall switch SW1 or Jumper it.\n\nThe LED's brightness will vary according\nto the light received by the LDR
 Text Label 6000 4525 0    60   ~ 12
 Base
 Text Label 6925 4175 0    60   ~ 12
