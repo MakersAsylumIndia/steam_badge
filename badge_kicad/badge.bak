@@ -394,9 +394,9 @@ F 4 "mfr_pn" H 3875 6625 60  0001 C CNN "manf#"
 	1    3875 6625
 	1    0    0    -1  
 $EndComp
-Text Notes 3375 6375 0    60   Italic 12
+Text Notes 3375 6325 0    60   Italic 12
 TEXT & LOGOS
-Text Notes 5350 6375 0    60   Italic 12
+Text Notes 5350 6325 0    60   Italic 12
 MOUNTING HOLES
 $Bitmap
 Pos 5525 7075
@@ -2914,4 +2914,10 @@ FB D9 BB BB BB 79 70 41 30 03 03 C3 98 A4 A4 64 8D 94 94 54 B5 94 94 54 35 FE FF
 A7 19 F5 F4 FF 00 F5 B3 65 58 AB 7A 21 F0 00 00 00 00 49 45 4E 44 AE 42 60 82 
 EndData
 $EndBitmap
+Wire Notes Line
+	9000 700  9350 700 
+Wire Notes Line
+	5350 6350 6150 6350
+Wire Notes Line
+	4025 6350 3375 6350
 $EndSCHEMATC
